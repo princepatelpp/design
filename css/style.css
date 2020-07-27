@@ -1,0 +1,18 @@
+.boxes1 {
+  z-index: 2;
+  width: 120px;
+  height: 70px;
+  background-color: grey;
+}
+.boxes2 {
+  float: right;
+  z-index: 1;
+  width: 120px;
+  height: 70px;
+  background-color: indigo;
+  position: absolute;
+  top: 20px;
+  bottom: 50px;
+  left: 40px;
+  right: 40px;
+}
